@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How FurKid Works
-permalink: /pet-sitters/docs/how-furkid-works/
+permalink: /docs/how-furkid-works/
 ---
 
 # How FurKid Works

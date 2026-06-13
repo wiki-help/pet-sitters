@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Understanding FurKid Pricing
-permalink: /pet-sitters/docs/understanding-pricing/
+permalink: /docs/understanding-pricing/
 ---
 
 # Understanding FurKid Pricing
