@@ -12,29 +12,29 @@ Welcome to the FurKid documentation hub. Whether you're a pet parent looking for
 
 New to FurKid? Start here to set up your account and learn the basics.
 
-- **[Getting Started Guide](/docs/getting-started/)** — Create your account, set up your profile, add your pets, and book your first sitter in minutes.
+- **[Getting Started Guide](/pet-sitters/docs/getting-started/)** — Create your account, set up your profile, add your pets, and book your first sitter in minutes.
 
 ## How FurKid Works
 
 Learn about the platform, our zero-fee model, and what makes FurKid different.
 
-- **[How FurKid Works](/docs/how-furkid-works/)** — Overview of the marketplace, key features, safety measures, and why FurKid is the best choice for pet care.
+- **[How FurKid Works](/pet-sitters/docs/how-furkid-works/)** — Overview of the marketplace, key features, safety measures, and why FurKid is the best choice for pet care.
 
 ## For Pet Parents
 
 Guides to help you find, book, and manage care for your furry family members.
 
-- **[Booking a Sitter](/docs/booking-a-sitter/)** — Search, vet, meet, and book the perfect sitter. Covers search filters, reviews, meet-and-greets, and booking protection.
+- **[Booking a Sitter](/pet-sitters/docs/booking-a-sitter/)** — Search, vet, meet, and book the perfect sitter. Covers search filters, reviews, meet-and-greets, and booking protection.
 
-- **[Managing Your Profile](/docs/managing-your-profile/)** — Add pets, set care preferences, manage payment methods, and keep your household information up to date.
+- **[Managing Your Profile](/pet-sitters/docs/managing-your-profile/)** — Add pets, set care preferences, manage payment methods, and keep your household information up to date.
 
-- **[Understanding Pricing](/docs/understanding-pricing/)** — How pricing works, what's included, subscription plans, and how FurKid keeps costs transparent with zero platform fees.
+- **[Understanding Pricing](/pet-sitters/docs/understanding-pricing/)** — How pricing works, what's included, subscription plans, and how FurKid keeps costs transparent with zero platform fees.
 
 ## For Sitters
 
 Resources to help you launch and grow your pet care business on FurKid.
 
-- **[Becoming a Sitter](/docs/becoming-a-sitter/)** — Application process, background checks, setting your rates, building your profile, and getting your first bookings.
+- **[Becoming a Sitter](/pet-sitters/docs/becoming-a-sitter/)** — Application process, background checks, setting your rates, building your profile, and getting your first bookings.
 
 ## Quick Links
 
