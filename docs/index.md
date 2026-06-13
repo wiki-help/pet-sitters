@@ -4,7 +4,7 @@ title: FurKid Help Center
 permalink: /docs/
 ---
 
-# FurKid Help Center
+# FurKid Pet Sitter Help Center
 
 Welcome to the FurKid documentation hub. Whether you're a pet parent looking for trusted care or a sitter building your pet care business, you'll find everything you need to get the most out of FurKid.
 
