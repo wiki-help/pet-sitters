@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FurKid Help Center
-permalink: /docs/
+permalink: /pet-sitters/docs/
 ---
 
 # FurKid Help Center

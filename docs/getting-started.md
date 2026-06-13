@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started with FurKid
-permalink: /docs/getting-started/
+permalink: /pet-sitters/docs/getting-started/
 ---
 
 # Getting Started with FurKid

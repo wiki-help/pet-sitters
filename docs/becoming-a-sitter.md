@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Becoming a FurKid Sitter
-permalink: /docs/becoming-a-sitter/
+permalink: /pet-sitters/docs/becoming-a-sitter/
 ---
 
 # Becoming a FurKid Sitter

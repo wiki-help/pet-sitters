@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Managing Your FurKid Profile
-permalink: /docs/managing-your-profile/
+permalink: /pet-sitters/docs/managing-your-profile/
 ---
 
 # Managing Your FurKid Profile

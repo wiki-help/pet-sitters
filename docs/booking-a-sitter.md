@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Booking a Sitter on FurKid
-permalink: /docs/booking-a-sitter/
+permalink: /pet-sitters/docs/booking-a-sitter/
 ---
 
 # Booking a Sitter on FurKid
